@@ -10,4 +10,4 @@ This repo is just an attempt to read in and factorize a file of numbers.
 
 ## Author :octocat:
 
-[Esteban De La Hoz](https://www.linkedin.com/in/manuel-dinis-junior/) | [Twitter](https://twitter.com/manueldinisjr) | [GitHub](https://github.com/manueldinisjunior)
+[Manuel Dinis Júnior](https://www.linkedin.com/in/manuel-dinis-junior/) | [Twitter](https://twitter.com/manueldinisjr) | [GitHub](https://github.com/manueldinisjunior) | [Manuel Dinis Júnior (Web-Portfolio)](https://www.manueldinisjunior.com/)
