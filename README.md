@@ -1,4 +1,4 @@
-# RSA Factoring Challenge :cat:
+# RSA Factoring Challenge :scorpion:
 This repo is just an attempt to read in and factorize a file of numbers.
 
 ## Description of what each file shows:
